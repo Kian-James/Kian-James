@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Siesta</h1>
-<h3 align="center">A Dumbass Computer Science Student at Holy Angel University</h3>
+<h3 align="center">Aim to be a Data Scientist</h3>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 📫 How to reach me **kgjames.hauivy@gmail.com**
 
