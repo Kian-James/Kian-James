@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer</h3>
 
 # 💫 About Me:
-Im currently working on a MERN Stack Web Application for a School Management System<br>Im looking to collaborate with companies who utilize MERN<br>Trying to find a company to help me Upskill as a student
+Currently Learning Flutter
 
 
 ## 🌐 Socials:
