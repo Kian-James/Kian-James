@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kian Andrei James</h1>
-<h3 align="center">Hello! I'm a 21-year-old web and app developer with a passion for creating modern, efficient, and user-friendly applications. I specialize in the MERN stack (MongoDB, Express.js, React, Node.js) for full-stack web development and Flutter with Firebase for cross-platform mobile apps. I enjoy turning ideas into functional products and continuously learning new technologies to grow as a developer. My goal is to build solutions that make a real impact.</h3>
+<h3 align="justify">Hello! I'm a 21-year-old web and app developer with a passion for creating modern, efficient, and user-friendly applications. I specialize in the MERN stack (MongoDB, Express.js, React, Node.js) for full-stack web development and Flutter with Firebase for cross-platform mobile apps. I enjoy turning ideas into functional products and continuously learning new technologies to grow as a developer. My goal is to build solutions that make a real impact.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kian-james" alt="kian-james" /></a> </p>
 
