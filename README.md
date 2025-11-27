@@ -58,6 +58,6 @@ Hello! I'm a 21-year-old web and app developer with a passion for creating moder
 <h3 align="center">Achievements</h3>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kian-james&theme=dark" alt="kian-james" />
+    <img src="https://github-profile-trophy.vercel.app/?username=kian-james&theme=tokyonight" alt="kian-james" />
   </a>
 </p>
