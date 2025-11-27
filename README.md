@@ -5,14 +5,8 @@
 Hello! I'm a 21-year-old web and app developer with a passion for creating modern, efficient, and user-friendly applications. I specialize in the <strong>MERN stack</strong> (MongoDB, Express.js, React, Node.js) for full-stack web development and <strong>Flutter with Firebase</strong> for cross-platform mobile apps. I enjoy turning ideas into functional products and continuously learning new technologies to grow as a developer. My goal is to build solutions that make a real impact.
 </p>
 
+<h3 align="center">Languages & Tools</h3>
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kian-james&theme=dark" alt="kian-james" />
-  </a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
   </a>
@@ -53,10 +47,17 @@ Hello! I'm a 21-year-old web and app developer with a passion for creating moder
 
 <h3 align="center">GitHub Stats</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kian-james&show_icons=true&locale=en&theme=dark" alt="kian-james" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kian-james&show_icons=true&locale=en&theme=dark" alt="kian-james" />
 </p>
 
 <h3 align="center">GitHub Streak</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kian-james&theme=dark" alt="kian-james" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kian-james&theme=dark" alt="kian-james" />
+</p>
+
+<h3 align="center">Achievements</h3>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=kian-james&theme=dark" alt="kian-james" />
+  </a>
 </p>
