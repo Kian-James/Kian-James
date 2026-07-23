@@ -1,7 +1,7 @@
 # 🚀 Hi there, I'm Kian Andrei James
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Age-21-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Age-22-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Role-Fullstack%20Developer-green?style=flat-square" />
   <img src="https://img.shields.io/badge/Location-Philippines-red?style=flat-square" />
 </p>
